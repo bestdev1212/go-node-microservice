@@ -1,7 +1,7 @@
-# Go-Node Microservices
+# Microservices using Go and Node
 ---
 
-This project consists of two microservices, first `Posts` microservice, which is implemented in Go and the the second microservice `Comments` which is implemented in Node JS.
+This project includes two microservices, first `Posts` microservice, which is implemented in Go and the the second microservice `Comments` which is implemented in Node JS.
 
 `Posts` microservice communicates with the `Comments` microservice through HTTP requests, allowing client to use data from both services by making a HTTP request to just `Posts` microservice.
 
